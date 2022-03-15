@@ -10,4 +10,9 @@ This curcitboard have evrything for play MP3 files from the SD card. It have ser
 
 
 ## Schmatic:  
-![Namnlös](https://user-images.githubusercontent.com/33222123/158381115-4a625df8-efd4-4f01-a886-9ced3e68efc1.png)  
+
+![Namnlös](https://user-images.githubusercontent.com/33222123/158383110-ff2b99c3-8731-43ef-934a-39918f8a219a.png)  
+
+
+
+## Needed librarys:
