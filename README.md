@@ -1,7 +1,7 @@
 # DFPlayer-Mini-MP3-Player-dog-barking-machine
 Make a DFPlayer Mini MP3 Player dog barking machine, to scare burglars. 
   
-Make a burglar scare that plays dog bark sound when somebody walk infront of the motion-detector. It will play 30 seconds after last signal from motion-detector. Put the 42 MP#-files with dog bark in the SD-card.  
+Make a burglar scare that plays dog bark sound when somebody walk infront of the motion-detector. It will play 30 seconds after last signal from motion-detector. Put the 42 MP3-files with dog bark in the SD-card.  
 
 ## DFPlayer Mini MP3 Player  
 This curcitboard have evrything for play MP3 files from the SD card. It have serial port to communicate to Arduino.  
